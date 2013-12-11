@@ -9,17 +9,17 @@ ul
 	display:none;
 }
 
-a.nav:link
+a:link
 {
 	text-decoration: none;
 }
 
-a.nav:visited
+a:visited
 {
 	color:black;
 }
 
-a.nav:hover
+a:hover
 {
 	background-color:black;
 	color:white;
