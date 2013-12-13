@@ -4,6 +4,13 @@
 	margin:0 auto;
 }
 
+#navigator
+{
+	width:300px;
+	position:relative;
+	left:-25px;
+}	
+
 ul
 {
 	display:none;
